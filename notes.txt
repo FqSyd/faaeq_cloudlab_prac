@@ -1,0 +1,4 @@
+AWS Services Integration Assignment
+Student Name: Your Name
+Course: Cloud Computing
+Task 3 - S3 Bucket Upload Test File
