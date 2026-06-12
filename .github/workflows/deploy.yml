@@ -50,7 +50,7 @@ jobs:
       # Replace YOUR_BUCKET_NAME with your bucket name
       - name: Upload Files to Cloud Storage
         run: |
-          gsutil -m cp -r * gs://faaeq-prac-bucket/github_files/
+          gsutil -m cp -r * gs://faaeq_prac_bucket/github_files/
 
       # Step 6
       # Display success message
